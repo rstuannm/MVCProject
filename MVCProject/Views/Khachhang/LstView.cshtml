@@ -1,0 +1,16 @@
+﻿@model List<MVCBusiness1.DataContext.KhachHang>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>@item.Id</td>
+        <td>@item.username</td>
+        <td>@item.password</td>
+        <td>@item.name</td>
+        <td>@item.mobile</td>
+        <td>@item.email</td>
+        <td>@item.adress</td>
+        <td>@item.sex</td>
+        <td>@item.update_date</td>
+    </tr>
+}

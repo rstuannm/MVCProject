@@ -1,0 +1,12 @@
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\bin\Debug\MVCBusiness1.dll.config
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\bin\Debug\MVCBusiness1.dll
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\bin\Debug\MVCBusiness1.pdb
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\bin\Debug\EntityFramework.dll
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\bin\Debug\EntityFramework.xml
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\obj\Debug\MVCBusiness1.csprojAssemblyReference.cache
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\obj\Debug\MVCBusiness1.csproj.CoreCompileInputs.cache
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\obj\Debug\MVCBusiness1.csproj.CopyComplete
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\obj\Debug\MVCBusiness1.dll
+C:\Users\TuanNM\source\repos\MVCProject\MVCBusiness1\obj\Debug\MVCBusiness1.pdb
